@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tasmia78
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java+DSA
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on my skills
 - 📫 How to reach me , u can mail me or DM at LinkedIn.
 
